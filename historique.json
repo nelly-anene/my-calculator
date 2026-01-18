@@ -1,0 +1,42 @@
+[
+  {
+    "expression": "2.0 + 3.0 * 4.0",
+    "resultat": 14
+  },
+  {
+    "expression": "2.0 * 4.0",
+    "resultat": 8
+  },
+  {
+    "expression": "3.0 * 4.0",
+    "resultat": 12
+  },
+  {
+    "expression": "3.0 * 4.0",
+    "resultat": 12
+  },
+  {
+    "expression": "3.0 * 4.0 + 2.0",
+    "resultat": 14
+  },
+  {
+    "expression": "3.0 * 4.0",
+    "resultat": 12
+  },
+  {
+    "expression": "3.0 * 4.0",
+    "resultat": 12
+  },
+  {
+    "expression": "3.0 * 4.0",
+    "resultat": 12
+  },
+  {
+    "expression": "2.0 + 3.0 * 4.0",
+    "resultat": 14
+  },
+  {
+    "expression": "2.0 + 3.0 * 4.0",
+    "resultat": 14
+  }
+]
